@@ -1,1 +1,18 @@
 # rat-collection
+ - AndroRat
+ - Babylon Rat
+ - ctOs Rat
+ - Darkcoment Rat
+ - Darktrack Rat
+ - Diamond Rat
+ - DroidJack
+ - HAKOPS RAT v2
+ - Harmmy Rat v1.7
+ - Imminent Monitor
+ - Luminosity Link
+ - Nanocore Rat
+ - NJ RAT TRAVEL
+ - Ozone Rat
+ - Quasher Rat
+ - Spynote 2
+ - Vantom Rat
